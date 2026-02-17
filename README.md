@@ -2,6 +2,8 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
+**⚠️ IMPORTANT: LeRobot now has built-in dataset tools, which likely have more features, more support, and higher efficiency than those here: [https://huggingface.co/docs/lerobot/en/using_dataset_tools](https://huggingface.co/docs/lerobot/en/using_dataset_tools) **
+
 > **⚠️ IMPORTANT: LeRobotDataset v3.0 Only**
 > It may work with future v3.x versions, but the code has only been tested on v3.0 so far.
 > For v2.1 datasets, migrate to v3.0 first.
